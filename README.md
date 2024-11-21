@@ -67,7 +67,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 15. click on debug and simulate using simulation as shown below   
 
 ## STM 32 CUBE PROGRAM :
-c
+```c
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -154,7 +154,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-
+```
 ## Output screen shots of proteus  :
  ![image](https://github.com/user-attachments/assets/b9a2d0ec-1caa-4e83-9442-99e9253b1b30)
 ![image](https://github.com/user-attachments/assets/9564f483-7029-44c6-920f-33089e60345a)
